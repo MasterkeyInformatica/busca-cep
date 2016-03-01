@@ -9,7 +9,7 @@
             "email": "fale_com_lopez@hotmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "masterkey/goutte": "^1.0"
     },
