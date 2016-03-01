@@ -1,0 +1,6 @@
+/vendor/
+
+# Eclipse
+.project
+.buildpath
+.settings
